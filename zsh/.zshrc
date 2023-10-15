@@ -80,7 +80,7 @@ unsetopt beep
 # Set environment variables.
 export JAVA_HOME=/usr/local/opt/openjdk@17
 export GPG_TTY=$(tty)
-export HOMEBREW_GITHUB_API_TOKEN=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
+export HOMEBREW_GITHUB_API_TOKEN=<token>
 export CPPFLAGS="-I/usr/local/opt/openjdk/include"
 export SPRING_HOME=/usr/local/Cellar/spring-boot/3.1.3
 export NGROK_DOMAIN="measured-anteater-fast.ngrok-free.app"

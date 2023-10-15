@@ -1,0 +1,14 @@
+# Navigation aliases
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias home='cd ~'
+
+# Miscellaneous aliases
+alias ll='ls -alF'
+alias c='clear'
+alias h='history'
+alias top='htop'
+alias hg='history | grep'
+alias sz="source ~/.zshrc"
+alias grep='grep --color=auto'

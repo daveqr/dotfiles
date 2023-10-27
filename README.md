@@ -4,6 +4,6 @@ A collection of my personal dotfiles.
 
 ```shell
 $ cd ~/.dotfiles
-$ stow -t ~ vim
+$ stow -t ~ zsh
 $ stow -t ~ tmux
 ``
